@@ -33,3 +33,9 @@ h2{
   font-family: Helvetica;
   font-size: 14px;
 }
+.background h2{
+  font-family: Helvetica;
+font-size: 23px;
+font-weight: bold;
+color: white;
+}
