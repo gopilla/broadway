@@ -23,6 +23,7 @@ h2{
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
+  text-align: center;
 }
 .element h3{
   font-family: Helvetica;
@@ -32,6 +33,9 @@ h2{
 .element p{
   font-family: Helvetica;
   font-size: 14px;
+}
+.element{
+  text-align: center;
 }
 .background h2{
   font-family: Helvetica;
