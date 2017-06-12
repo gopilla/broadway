@@ -19,3 +19,17 @@ h1{
   font-weight: bold;
   color: white;
 }
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+.element h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.element p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
